@@ -127,7 +127,7 @@ int full_scale[] = {
     NOTE_A3,
     NOTE_AS3,
     NOTE_B3,
-     NOTE_C4,
+    NOTE_C4,
     NOTE_CS4,
     NOTE_D4,
     NOTE_DS4,
